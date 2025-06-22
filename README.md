@@ -12,15 +12,15 @@ The aim of this project is to design a web application to detect fire and smoke 
 
 
 ## 📦 Installation
-git clone https://github.com/Hamza-1711/d-fire-detection.git
-cd d-fire-detection
+- git clone https://github.com/Hamza-1711/d-fire-detection.git
+- cd d-fire-detection
 
 # Create virtual environment
 - python -m venv venv
 - venv\Scripts\activate  # Windows
 
 # Install dependencies
-pip install -r Web-app/requirements.txt
+- pip install -r Web-app/requirements.txt
 
 # ▶️ Run the App
 - cd Web-app
